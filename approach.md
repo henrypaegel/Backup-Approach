@@ -7,8 +7,6 @@
 2. * Sync NAS-Share to OneDrive every Night
    * Backup NAS to USB-Drive once a Month; *rotate between two drives (one off-site)*
 
-**Important:** Don't forget to rotate HDD-Drives
-
 | Backup           | Program     | Target       | Frequency                | Automatic / manual | RTO       | RPO            | Procedure                           |
 |------------------|-------------|--------------|--------------------------|--------------------|-----------|----------------|-------------------------------------|
 | Onsite Backup 1  | Timeshift   | internal SSD | Daily / Weekly / Monthly | Automatic          | 5 minutes  | Up to 1 day   | None. Runs when computer does.      |
